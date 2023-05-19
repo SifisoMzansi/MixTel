@@ -1,0 +1,15 @@
+C:\Users\sxk2502\source\repos\ConsoleApp25\obj\Debug\net7.0\MixAssessment2.csproj.AssemblyReference.cache
+C:\Users\sxk2502\source\repos\ConsoleApp25\obj\Debug\net7.0\MixAssessment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sxk2502\source\repos\ConsoleApp25\obj\Debug\net7.0\MixAssessment2.AssemblyInfoInputs.cache
+C:\Users\sxk2502\source\repos\ConsoleApp25\obj\Debug\net7.0\MixAssessment2.AssemblyInfo.cs
+C:\Users\sxk2502\source\repos\ConsoleApp25\obj\Debug\net7.0\MixAssessment2.csproj.CoreCompileInputs.cache
+C:\Users\sxk2502\source\repos\ConsoleApp25\bin\Debug\net7.0\MixAssessment2.exe
+C:\Users\sxk2502\source\repos\ConsoleApp25\bin\Debug\net7.0\MixAssessment2.deps.json
+C:\Users\sxk2502\source\repos\ConsoleApp25\bin\Debug\net7.0\MixAssessment2.runtimeconfig.json
+C:\Users\sxk2502\source\repos\ConsoleApp25\bin\Debug\net7.0\MixAssessment2.dll
+C:\Users\sxk2502\source\repos\ConsoleApp25\bin\Debug\net7.0\MixAssessment2.pdb
+C:\Users\sxk2502\source\repos\ConsoleApp25\obj\Debug\net7.0\MixAssessment2.dll
+C:\Users\sxk2502\source\repos\ConsoleApp25\obj\Debug\net7.0\refint\MixAssessment2.dll
+C:\Users\sxk2502\source\repos\ConsoleApp25\obj\Debug\net7.0\MixAssessment2.pdb
+C:\Users\sxk2502\source\repos\ConsoleApp25\obj\Debug\net7.0\MixAssessment2.genruntimeconfig.cache
+C:\Users\sxk2502\source\repos\ConsoleApp25\obj\Debug\net7.0\ref\MixAssessment2.dll
